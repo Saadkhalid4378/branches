@@ -4,6 +4,3 @@ print (
 print (
     "Saad Khalid "
 )
-print (
-    "Saad Ali "
-)
